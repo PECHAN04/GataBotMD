@@ -12,6 +12,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /turip|Turip|ip ip|Turip / 
+handler.customPrefix = /turip|Turip|ip|Turip / 
 handler.command = new RegExp
 export default handler
