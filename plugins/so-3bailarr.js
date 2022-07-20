@@ -12,6 +12,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /abduzcan|Abduzcan|adbuzcan|Adbuzcan/ 
+handler.customPrefix = /d03|D03/ 
 handler.command = new RegExp
 export default handler
