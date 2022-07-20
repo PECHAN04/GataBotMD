@@ -7,11 +7,11 @@ global.db.data.users[m.sender].money += 100
 global.db.data.users[m.sender].exp += 100
   
 let vn = './media/abduzcan.mp3'
-conn.sendFile(m.chat, vn, 'abduzcan.mp3', null, m, true, {
+conn.sendFile(m.chat, vn, 'sensual.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
 })
 }
-handler.customPrefix = /abduzcan|Abduzcan|adbuzcan|Adbuzcan/ 
+handler.customPrefix = /d14|D14|d014|D014/ 
 handler.command = new RegExp
 export default handler
