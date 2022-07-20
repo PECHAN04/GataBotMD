@@ -13,11 +13,11 @@ let str = `
 ➥ ${vs}
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ✅ 𝙂𝙍𝙐𝙋𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ${gt}
-🐈 *${nn}*\n
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 🐈 *${nnn}*\n
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 *https://chat.whatsapp.com/BlasuG7z02d16wEaCf61pa*\n
+🐈 *${nnnn}*\n
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+🐈 *https://chat.whatsapp.com/BlasuG7z02d16wEaCf61paa*\n
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *Por favor, no ingresar con números de Bots, y mantener el respeto.*\n
 *Please, do not enter with Bot numbers, and maintain respect.*
